@@ -1,2 +1,2 @@
-# StaticSiteCrawler
-A simple util for crawling links from root URL and saving HTML documents.
+# Static Site Crawler
+A simple utility tool for crawling links from root URL and saving HTML documents.
